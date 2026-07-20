@@ -1,0 +1,121 @@
+Main Menu
+1. Users
+2. Services
+3. Billing
+4. Wipe database and its contents (Run with precaution !)
+5. Exit
+Enter choice: 1
+**************************************************
+
+Users Control Menu
+1. View users
+2. Delete user
+3. Create random sample users
+4. Back
+Enter choice: 3
+Adding sample services...
+Sample services successfully loaded into the catalog.
+**************************************************
+
+Users Control Menu
+1. View users
+2. Delete user
+3. Create random sample users
+4. Back
+Enter choice: 4
+
+Main Menu
+1. Users
+2. Services
+3. Billing
+4. Wipe database and its contents (Run with precaution !)
+5. Exit
+Enter choice: 2
+--------------------Services Setup--------------------
+1. View services
+2. Create service
+3. Create random sample services
+4. Back
+Enter choice: 2
+Service name: GitHub pro
+Base price: 2.99
+Student discount: 20
+Employee discount: 0
+Senior discount: 10
+Service created successfully.
+--------------------Services Setup--------------------
+1. View services
+2. Create service
+3. Create random sample services
+4. Back
+Enter choice: 4
+
+Main Menu
+1. Users
+2. Services
+3. Billing
+4. Wipe database and its contents (Run with precaution !)
+5. Exit
+Enter choice: 3
+Please enter your full name: Coder
+Please choose a preferred username: codeXcs        
+Please choose a password for this account: 1234
+Are you a student? (1 : Yes, 2 : No): 1
+Are you an internal company employee? (1 : Yes, 2 : No): 2
+Are you a senior citizen? (1 : Yes, 2 : No): 2
+
+--- Official Service Catalog ---
+[1] Streaming Service - $9.99
+[2] Cloud Storage - $4.99
+[3] PW lakshya access - $14.99
+[4] Music Subscription - $7.99
+[5] Fitness Pro+ App - $5.99
+[6] GitHub pro - $2.99
+Please enter the number of the service to add (or type 0 to finalize selection): 6
+Service successfully added to your pending layout.
+Please enter the number of the service to add (or type 0 to finalize selection): 2
+Service successfully added to your pending layout.
+Please enter the number of the service to add (or type 0 to finalize selection): 0
+
+========================================
+INVOICE REFERENCE: 11_Coder_2026720
+Account Name: Coder
+Account ID: codeXcs
+Line Items: GitHub pro ($2.39)-Cloud Storage ($4.74)
+Grand Total: $7.13
+========================================
+Transactions logged and database entry verified.
+
+Main Menu
+1. Users
+2. Services
+3. Billing
+4. Wipe database and its contents (Run with precaution !)
+5. Exit
+Enter choice: 1
+**************************************************
+
+Users Control Menu
+1. View users
+2. Delete user
+3. Create random sample users
+4. Back
+Enter choice: 1
+**************************************************
+
+Users:
+Id      | Name  | Username      | Password
+1       | Aarav Sharma  | aarav1        | pass1
+2       | Priya Patel   | priya2        | pass2
+3       | Rohan Das     | rohan3        | pass3
+4       | Ananya Iyer   | ananya4       | pass4
+5       | Kabir Singh   | kabir5        | pass5
+6       | Diya          | diya6         | pass6
+7       | Arjun Verma   | arjun7        | pass7
+8       | Isha Gupta    | isha8         | pass8
+9       | Dev Reddy     | dev983        | pass9
+10      | Meera Nair    | meera10       | pass10
+11      | Coder         | codeXcs       | 1234
+**************************************************
+**************************************************
+ 
