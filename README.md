@@ -1,1 +1,1 @@
-# Python-MySQL-SchoolPratice
+# Python-MySQL-School-Project
